@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varshath Gupta</h1>
-<h3 align="center">Dedicated Software Engineer | Frontend Specialist | SaaS Builder</h3>
+<h3 align="center">Dedicated Software Engineer | SaaS Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/varshathgupta/" target="_blank">
@@ -19,9 +19,7 @@ Dedicated software engineer with a proven track record in SaaS, adept at creatin
 ---
 
 🛠 **Tech Stack**
-
-- **Frontend**: React, Angular, JavaScript, TypeScript, Redux, HTML, CSS, SCSS, Tailwind CSS, Material-UI  
-- **Backend & APIs**: Node.js, REST APIs, GraphQL, JWT  
+ 
 - **DevOps**: Docker, CI/CD, Kubernetes  
 - **Monitoring & Logging**: Datadog  
 - **Cloud**: AWS (Lambda, API Gateway, EKS, AppSync)
@@ -30,7 +28,7 @@ Dedicated software engineer with a proven track record in SaaS, adept at creatin
 
 📬 **Reach Out**
 
-- [Portfolio](https://www.varshath.tech)
+
 - 💼 [LinkedIn](https://linkedin.com/in/varshathgupta)
 - 📧 varshathgupta@gmail.com
 
