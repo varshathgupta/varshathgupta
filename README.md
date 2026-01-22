@@ -14,7 +14,7 @@
 ---
 
 🎯 **About Me**  
-Dedicated software engineer with a proven track record in SaaS, adept at creating innovative and user-centric web solutions. Passionate about scalable frontend architecture and cloud-native technologies.
+Dedicated software engineer with a proven track record in SaaS, adept at creating innovative and user-centric web solutions. Passionate about scalable architecture and cloud-native technologies.
 
 ---
 
