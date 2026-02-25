@@ -19,7 +19,8 @@ Dedicated software engineer with a proven track record in SaaS, adept at creatin
 ---
 
 🛠 **Tech Stack**
- 
+- **Programming**: JS, Python
+- **Framework** : React, Next.js 
 - **DevOps**: Docker, CI/CD, Kubernetes  
 - **Monitoring & Logging**: Datadog  
 - **Cloud**: AWS (Lambda, API Gateway, EKS, AppSync)
